@@ -1,0 +1,618 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "wCsORyG8j_A1BKXasw1XTjsnkFA",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "UK2iE0UOdaU1KQXheCuJ4uBeNwc",
+      "id": "UC0T6MVd3wQDB5ICAe45OxaQ",
+      "snippet": {
+        "title": "WsCube Tech",
+        "description": "WsCube Tech is your source for learning everything related to Digital Marketing, Web Development, App Development, Ethical Hacking, Graphic Designing, Python, Machine Learning, and much more in Hindi.\n\nIn addition to offering high-quality courses, WsCube Tech is also a leading Web/  Mobile App and Digital Marketing company in India, trusted by top brands. \n\nWith an aim to prepare everyone for the skills of today & tomorrow, this channel is providing fully practical courses curated by industry experts. \n\n✅ Subscribe to the channel now for high-quality videos focused on different areas of:\n\n🎯 Digital Marketing\n🎯 Web Design and Development\n🎯 App Development\n🎯 Python\n🎯 Machine Learning\n🎯 Data Science\n🎯 Content Writing\n🎯 Graphic Designing\n🎯 Video Editing\n🎯 Python\n- and many more in-demand skills.\n\n📲For any inquiries related to any course or service, call us on +91 92696-98122 / 90242-44886\n",
+        "customUrl": "@wscubetech",
+        "publishedAt": "2015-08-22T13:22:51Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/iOVEZlsu-Hkp4MRYdHEOzsRzlNlojrKFkfsPiWmiUQNxCGsOMeREn1IcZ6x3LZQy0SjXWUUGgg=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/iOVEZlsu-Hkp4MRYdHEOzsRzlNlojrKFkfsPiWmiUQNxCGsOMeREn1IcZ6x3LZQy0SjXWUUGgg=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/iOVEZlsu-Hkp4MRYdHEOzsRzlNlojrKFkfsPiWmiUQNxCGsOMeREn1IcZ6x3LZQy0SjXWUUGgg=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "WsCube Tech",
+          "description": "WsCube Tech is your source for learning everything related to Digital Marketing, Web Development, App Development, Ethical Hacking, Graphic Designing, Python, Machine Learning, and much more in Hindi.\n\nIn addition to offering high-quality courses, WsCube Tech is also a leading Web/  Mobile App and Digital Marketing company in India, trusted by top brands. \n\nWith an aim to prepare everyone for the skills of today & tomorrow, this channel is providing fully practical courses curated by industry experts. \n\n✅ Subscribe to the channel now for high-quality videos focused on different areas of:\n\n🎯 Digital Marketing\n🎯 Web Design and Development\n🎯 App Development\n🎯 Python\n🎯 Machine Learning\n🎯 Data Science\n🎯 Content Writing\n🎯 Graphic Designing\n🎯 Video Editing\n🎯 Python\n- and many more in-demand skills.\n\n📲For any inquiries related to any course or service, call us on +91 92696-98122 / 90242-44886\n"
+        },
+        "country": "IN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU0T6MVd3wQDB5ICAe45OxaQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "156563618",
+        "subscriberCount": "1960000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "4816"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/019_rr",
+          "/m/01k8wb",
+          "/m/07c1v"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+          "https://en.wikipedia.org/wiki/Knowledge",
+          "https://en.wikipedia.org/wiki/Technology"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified",
+        "madeForKids": false
+      }
+    }
+  ]
+}
+
+
+
+===============================================================================
+showing channel
+
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "B06Kx4NBIOQPlAx0TJFp-Ri_QUE",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "eIIahE3waP4qchi_OYJQySW0_U8",
+      "id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+      "snippet": {
+        "title": "Google Developers",
+        "description": "The Google Developers channel features talks from events, educational series, best practices, tips, and the latest updates across our products and platforms.\n\nSubscribe to Google Developers → https://goo.gle/developers\n",
+        "customUrl": "@googledevelopers",
+        "publishedAt": "2007-08-23T00:34:43Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AL5GRJUFC8wq-fwjeJR5HoLNc31hurtQKbi1ayR2i8gFJK8=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AL5GRJUFC8wq-fwjeJR5HoLNc31hurtQKbi1ayR2i8gFJK8=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AL5GRJUFC8wq-fwjeJR5HoLNc31hurtQKbi1ayR2i8gFJK8=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Google Developers",
+          "description": "The Google Developers channel features talks from events, educational series, best practices, tips, and the latest updates across our products and platforms.\n\nSubscribe to Google Developers → https://goo.gle/developers\n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU_x5XG1OV2P6uZZ5FSM9Ttw"
+        }
+      },
+      "statistics": {
+        "viewCount": "210089687",
+        "subscriberCount": "2270000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "5713"
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified",
+        "madeForKids": false
+      },
+      "contentOwnerDetails": {}
+    }
+  ]
+}
+
+
+
+===================================================================
+showing channels
+
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "GesOfnRK4lnqMQNaScV7eEW-93c",
+  "nextPageToken": "CAUQAA",
+  "regionCode": "IN",
+  "pageInfo": {
+    "totalResults": 16232,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "phonTldUnUSWMCZpOP8T-oE7WyQ",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCXUJJNoP1QupwsYIWFXmsZg"
+      },
+      "snippet": {
+        "publishedAt": "2014-09-26T18:24:03Z",
+        "channelId": "UCXUJJNoP1QupwsYIWFXmsZg",
+        "title": "Tech Burner",
+        "description": "Tech Videos that count! Join Us :) Brands and Business : business@techburner.in This Channel is owned by Burner Media owned ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AL5GRJUUlFKrYwjjCnGkmZSLHji3O5iLKd62XENM40wN6g=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AL5GRJUUlFKrYwjjCnGkmZSLHji3O5iLKd62XENM40wN6g=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AL5GRJUUlFKrYwjjCnGkmZSLHji3O5iLKd62XENM40wN6g=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "Tech Burner",
+        "liveBroadcastContent": "upcoming",
+        "publishTime": "2014-09-26T18:24:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "V9GkZjvwy1U4z3NLV8kF0inj73Q",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCBJycsmduvYEL83R_U4JriQ"
+      },
+      "snippet": {
+        "publishedAt": "2008-03-21T15:25:54Z",
+        "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+        "title": "Marques Brownlee",
+        "description": "MKBHD: Quality Tech Videos | YouTuber | Geek | Consumer Electronics | Tech Head | Internet Personality!",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/lkH37D712tiyphnu0Id0D5MwwQ7IRuwgQLVD05iMXlDWO-kDHut3uI4MgIEAQ9StK0qOST7fiA=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/lkH37D712tiyphnu0Id0D5MwwQ7IRuwgQLVD05iMXlDWO-kDHut3uI4MgIEAQ9StK0qOST7fiA=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/lkH37D712tiyphnu0Id0D5MwwQ7IRuwgQLVD05iMXlDWO-kDHut3uI4MgIEAQ9StK0qOST7fiA=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "Marques Brownlee",
+        "liveBroadcastContent": "upcoming",
+        "publishTime": "2008-03-21T15:25:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2vhjqk8pOeY0kix_76xCZycx5rQ",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UC0T6MVd3wQDB5ICAe45OxaQ"
+      },
+      "snippet": {
+        "publishedAt": "2015-08-22T13:22:51Z",
+        "channelId": "UC0T6MVd3wQDB5ICAe45OxaQ",
+        "title": "WsCube Tech",
+        "description": "WsCube Tech is your source for learning everything related to Digital Marketing, Web Development, App Development, Ethical ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/iOVEZlsu-Hkp4MRYdHEOzsRzlNlojrKFkfsPiWmiUQNxCGsOMeREn1IcZ6x3LZQy0SjXWUUGgg=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/iOVEZlsu-Hkp4MRYdHEOzsRzlNlojrKFkfsPiWmiUQNxCGsOMeREn1IcZ6x3LZQy0SjXWUUGgg=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/iOVEZlsu-Hkp4MRYdHEOzsRzlNlojrKFkfsPiWmiUQNxCGsOMeREn1IcZ6x3LZQy0SjXWUUGgg=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "WsCube Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-08-22T13:22:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KpwI2yoOjj_X8_D0Q8y9slQBMDs",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UC20sXo8ReewkzNKBFgzVCPA"
+      },
+      "snippet": {
+        "publishedAt": "2016-02-13T18:45:14Z",
+        "channelId": "UC20sXo8ReewkzNKBFgzVCPA",
+        "title": "TAMIL TECH - தமிழ் டெக்",
+        "description": "Tamil Tech is Worlds \"No #1\" Top Technology channel (UNBIASED⚖️) in Tamil which Focuses on Quality Tech Videos that ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AL5GRJWqjFW_7z9K2pYt7bNKCCZkUe8IURKERGqaDTP82w=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AL5GRJWqjFW_7z9K2pYt7bNKCCZkUe8IURKERGqaDTP82w=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AL5GRJWqjFW_7z9K2pYt7bNKCCZkUe8IURKERGqaDTP82w=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "TAMIL TECH - தமிழ் டெக்",
+        "liveBroadcastContent": "upcoming",
+        "publishTime": "2016-02-13T18:45:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yF_N3MK-cHApvWHA92CVrqB0lE4",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCEPL07qzVsOcHd3sMUws65g"
+      },
+      "snippet": {
+        "publishedAt": "2011-11-02T02:58:54Z",
+        "channelId": "UCEPL07qzVsOcHd3sMUws65g",
+        "title": "Trakin Tech",
+        "description": "Trakin Tech is one of the fastest growing Youtube Channel Founded by Arun Prabhudesai that features daily videos on ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/gU4o71ZnYWnTY6NxFvgWh2e7bG-kYF752ck0eANQ-uje7w9iKfFNV2oLD89wi3ZCfGHlq2xH6Lc=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/gU4o71ZnYWnTY6NxFvgWh2e7bG-kYF752ck0eANQ-uje7w9iKfFNV2oLD89wi3ZCfGHlq2xH6Lc=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/gU4o71ZnYWnTY6NxFvgWh2e7bG-kYF752ck0eANQ-uje7w9iKfFNV2oLD89wi3ZCfGHlq2xH6Lc=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "Trakin Tech",
+        "liveBroadcastContent": "upcoming",
+        "publishTime": "2011-11-02T02:58:54Z"
+      }
+    }
+  ]
+}
+
+
+
+
+
+
+<div class="carousel-item active" style="padding-left:30px;">
+echo '<div class="carousel-item" style="padding-left:30px;">';
+                echo '<div class="card" style="width: 14rem; float: left;margin-left:10px;">
+                        <img class="card-img-top" src="'. str_ireplace('88','240',$row['snippetthumbnailsdefaulturl']).'" width="88px" alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">'.substr($row['snippettitle'],0,20).'</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">'.adcategoryNumToString((int)$row['channel_type']).' ∙ 
+                            <a href="https:/www.youtube.com/'.$row['snippetcustomUrl'].'" class="">'.substr($row['snippetcustomUrl'],0,20).'</a></h6>                   
+                            <p class="card-text">'.substr($row['snippetdescription'],0,40).'..</p>     
+                            <span class="mr-5">See details</span>
+                            <a href="#" class="btn btn-success">See Details</a>
+                        </div>
+                     </div>
+                  </div>';
+
+                  echo '<div class="carousel-item" style="padding-left:30px;">';
+                echo '<div class="card" style="width: 14rem; float: left;margin-left:10px;">
+                        <img class="card-img-top" src="'. str_ireplace('88','240',$row['snippetthumbnailsdefaulturl']).'" width="88px" alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">'.substr($row['snippettitle'],0,20).'</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">'.adcategoryNumToString((int)$row['channel_type']).' ∙ 
+                            <a href="https:/www.youtube.com/'.$row['snippetcustomUrl'].'" class="">'.substr($row['snippetcustomUrl'],0,20).'</a></h6>                   
+                            <p class="card-text">'.substr($row['snippetdescription'],0,40).'..</p>     
+                            <span class="mr-5">See details</span>
+                            <a href="#" class="btn btn-success">See Details</a>
+                        </div>
+                     </div>
+                  </div>';
+                  
+                  echo '<div class="carousel-item" style="padding-left:30px;">';
+                echo '<div class="card" style="width: 14rem; float: left;margin-left:10px;">
+                        <img class="card-img-top" src="'. str_ireplace('88','240',$row['snippetthumbnailsdefaulturl']).'" width="88px" alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">'.substr($row['snippettitle'],0,20).'</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">'.adcategoryNumToString((int)$row['channel_type']).' ∙ 
+                            <a href="https:/www.youtube.com/'.$row['snippetcustomUrl'].'" class="">'.substr($row['snippetcustomUrl'],0,20).'</a></h6>                   
+                            <p class="card-text">'.substr($row['snippetdescription'],0,40).'..</p>     
+                            <span class="mr-5">See details</span>
+                            <a href="#" class="btn btn-success">See Details</a>
+                        </div>
+                     </div>
+                  </div>';
+                  
+echo '</div>';                  
+
+
+
+
+=========================================
+showing video of one channel
+
+
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "evvd5GQyOKkeHjmtRhOmxNWZ8Ao",
+  "nextPageToken": "EAAaBlBUOkNBVQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DCnNRA5ZigJwkmatnkOxlF8l5zQ",
+      "id": "VVUwVDZNVmQzd1FEQjVJQ0FlNDVPeGFRLk5ONlpSaVc1aHZj",
+      "snippet": {
+        "publishedAt": "2023-02-14T13:30:08Z",
+        "channelId": "UC0T6MVd3wQDB5ICAe45OxaQ",
+        "title": "How to Create a Professional LinkedIn Account to Get a JOB in 2023 - Hindi",
+        "description": "In this video, learn How to Create a Professional LinkedIn Account to Get a JOB in 2023 - Hindi. Find all the videos of the Linkedin Full Course 2023 in this playlist: https://www.youtube.com/watch?v=nwzPMcosMYo&list=PLjVLYmrlmjGfa9HAI6K_wIYPHQRARrl6E\n\n💎 Get Access to Premium Videos and Live Streams: https://www.youtube.com/channel/UC0T6MVd3wQDB5ICAe45OxaQ/join\n\nWsCube Tech is a leading Web, Mobile App &  Digital Marketing company, and institute in India.\n\nWe help businesses of all sizes to build their online presence, grow their business, and reach new heights. \n\n👉For Digital Marketing services (Brand Building, SEO, SMO, PPC, SEM, Content Writing), Web Development and App Development solutions, visit our website: https://www.wscubetech.com/\n\n👉Want to learn new skills and improve existing ones with in-depth and practical sessions? Enroll in our advanced online courses now and make yourself job-ready: https://courses.wscubetech.com/s/store\n\nAll the courses are job-oriented, up-to-date with the latest algorithms and modules, fully practical, and provide you hands-on projects. \n\n👉 Want to learn and acquire skills in English? Visit WsCube Tech English channel: https://bit.ly/2M3oYOs\n\n📞 For more info about the courses, call us: +91-7878985501, +91-9269698122\n\n✅ CONNECT WITH THE FOUNDER (Mr. Kushagra Bhatia) - \n\n👉 Instagram - https://www.instagram.com/kushagrabhatiaofficial\n👉 LinkedIn - https://www.linkedin.com/in/kushagra-bhatia\n👉 Facebook - https://www.facebook.com/kushagrawscubetech\n\nConnect with WsCube Tech on social media for the latest offers, promos, job vacancies, and much more:\n\n► Subscribe: http://bit.ly/wscubechannel\n► Facebook: https://www.facebook.com/wscubetech.india\n► Twitter: https://twitter.com/wscubetechindia\n► Instagram: https://www.instagram.com/wscubetechindia/\n► LinkedIn : https://www.linkedin.com/company/wscubetechindia/ \n► Youtube: https://www.youtube.com/c/wscubetechjodhpur \n► Website: http://wscubetech.com \n--------------------------------------| Thanks |---------------------------\n#linkedin  #linkedintips  #linkedintutorial",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NN6ZRiW5hvc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NN6ZRiW5hvc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NN6ZRiW5hvc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NN6ZRiW5hvc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NN6ZRiW5hvc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WsCube Tech",
+        "playlistId": "UU0T6MVd3wQDB5ICAe45OxaQ",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NN6ZRiW5hvc"
+        },
+        "videoOwnerChannelTitle": "WsCube Tech",
+        "videoOwnerChannelId": "UC0T6MVd3wQDB5ICAe45OxaQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "b1LSVqa-ipvuQbbsm_LULET9sN8",
+      "id": "VVUwVDZNVmQzd1FEQjVJQ0FlNDVPeGFRLmF4M2ZxUGZrQnBz",
+      "snippet": {
+        "publishedAt": "2023-02-14T11:55:19Z",
+        "channelId": "UC0T6MVd3wQDB5ICAe45OxaQ",
+        "title": "NEW LinkedIn Free Course 2023 😍",
+        "description": "In this video, learn NEW LinkedIn Free Course 2023 😍\n\n👉 Linkedin Full Course 2023: https://www.youtube.com/playlist?list=PLjVLYmrlmjGfa9HAI6K_wIYPHQRARrl6E\n\n💎 Get Access to Premium Videos and Live Streams: https://www.youtube.com/channel/UC0T6MVd3wQDB5ICAe45OxaQ/join\n\nWsCube Tech is a leading Web, Mobile App &  Digital Marketing company, and institute in India.\n\nWe help businesses of all sizes to build their online presence, grow their business, and reach new heights. \n\n👉For Digital Marketing services (Brand Building, SEO, SMO, PPC, SEM, Content Writing), Web Development and App Development solutions, visit our website: https://www.wscubetech.com/\n\n👉Want to learn new skills and improve existing ones with in-depth and practical sessions? Enroll in our advanced online courses now and make yourself job-ready: https://courses.wscubetech.com/s/store\n\nAll the courses are job-oriented, up-to-date with the latest algorithms and modules, fully practical, and provide you hands-on projects. \n\n👉 Want to learn and acquire skills in English? Visit WsCube Tech English channel: https://bit.ly/2M3oYOs\n\n📞 For more info about the courses, call us: +91-7878985501, +91-9269698122\n\nConnect with WsCube Tech on social media for the latest offers, promos, job vacancies, and much more:\n\n► Subscribe: http://bit.ly/wscubechannel\n► Facebook: https://www.facebook.com/wscubetech.india\n► Twitter: https://twitter.com/wscubetechindia\n► Instagram: https://www.instagram.com/wscubetechindia/\n► LinkedIn : https://www.linkedin.com/company/wscubetechindia/ \n► Youtube: https://www.youtube.com/c/wscubetechjodhpur \n► Website: http://wscubetech.com \n--------------------------------------| Thanks |---------------------------\n#linkedin  #linkedinmarketing  #linkedintutorial",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ax3fqPfkBps/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ax3fqPfkBps/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ax3fqPfkBps/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ax3fqPfkBps/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ax3fqPfkBps/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WsCube Tech",
+        "playlistId": "UU0T6MVd3wQDB5ICAe45OxaQ",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ax3fqPfkBps"
+        },
+        "videoOwnerChannelTitle": "WsCube Tech",
+        "videoOwnerChannelId": "UC0T6MVd3wQDB5ICAe45OxaQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "z_O-IFMUAAhle_NFhd0yMQTFacg",
+      "id": "VVUwVDZNVmQzd1FEQjVJQ0FlNDVPeGFRLnA4MnRHRlhSdUln",
+      "snippet": {
+        "publishedAt": "2023-02-14T07:30:17Z",
+        "channelId": "UC0T6MVd3wQDB5ICAe45OxaQ",
+        "title": "🐱\u200d💻 ONLINE ETHICAL HACKING COURSE | Become a Cyber Security Expert by Professionals 🙌",
+        "description": "🐱\u200d💻 ONLINE ETHICAL HACKING COURSE | Become a Cyber Security Expert by Professionals 🙌\n\n👉 Enroll Now: https://forms.gle/1vFpPFMZ5VfhjDAc8\n👉 Course Brochure: https://drive.google.com/file/d/1-mIcQ37S2h4iwLlUj53Nf3RNgZsX952H/view?usp=share_link\n🔻 Course Highlights: \n✔️ Live Classes \n✔️ Recordings \n✔️ Practical Projects \n✔️ Interview Preparation\n✔️ Basic to Advanced\n🔻 Course Details: \n✔️ Date: 20-February-2023\n✔️ Time: 7:00PM to 8:00PM  \n✔️ Course Fees: Rs 29,500/-\n✔️ Final Fees: Rs.14,750/-\n✔️ Duration: 60 days\n\nWsCube Tech is a top-class institute for learning Ethical Hacking, Penetration Testing, and more cybersecurity skills. We are providing online and classroom training with hands-on projects and in a practical way by an industry expert trainer.\n\nEnroll Now: https://forms.gle/1vFpPFMZ5VfhjDAc8\n\nWe offer several more IT courses, including Digital Marketing, Web Development, App Development, Python, etc. \n\nIn addition to courses, we provide web & app development solutions, cybersecurity services, and digital marketing services. We are catering our solutions to some of the top & renowned businesses in India and globally. \n\nOver the last decade, we have trained thousands of students in India and other Asian countries and helped them find high-paying career opportunities.\n\nEnrol now in our Ethical Hacking & Pentesting Courses:\n\n👉Ethical hacking Online Course (Live classes): https://www.wscubetech.com/online-ethical-hacking-course.html\n👉Ethical Hacking Classroom Training (Jodhpur): https://www.wscubetech.com/ethical-hacking-course-jodhpur.html\n👉Penetration Testing Online Course (Live Classes): https://www.wscubetech.com/online-pentesting-course.html\n👉Penetration Testing Classroom Training (Jodhpur): https://www.wscubetech.com/penetration-testing-course-jodhpur.html\n\nWatch Now our Trending Ethical Hacking Playlist & Videos:\n\nBecome an Ethical Hacker in One Video - https://www.youtube.com/watch?v=Rgvzt0D8bR4&t=67s\n\nHow Hackers Hack Passwords - https://www.youtube.com/watch?v=4fQ_CyEmQnM\n\nComplete Wi-Fi Tutorial (Beginners to Advanced)\nhttps://www.youtube.com/playlist?list=PLjVLYmrlmjGeB-ZrvAjzRvPSeZfMXGbyY\n\nMastery in Ethical Hacking [FREE]\nhttps://www.youtube.com/playlist?list=PLjVLYmrlmjGea8U9nphmCHGK_v6p_wq-R\n\nHacking with Android\nhttps://www.youtube.com/playlist?list=PLjVLYmrlmjGdpEcI0wzblfYKILrR6_ZEq\n\nFor any queries, call us on: +91-8561089567\n\n🔴 Disclaimer 🔴\nThis video is made available for educational and informational purposes only. We believe that everyone must be aware of ethical hacking and cybersecurity to avoid different types of cyberattacks on computers, websites, apps, etc. Please regard the word hacking as ethical hacking every time we use it. \nAll our videos have been made using our own systems, servers, routers, and websites. It does not contain any illegal activities. Our sole purpose is to raise awareness related to cybersecurity and help our viewers learn ways to defend themselves from any hacking activities. WsCube Tech is not responsible for any misuse of the provided information. \n\nConnect with WsCube Tech on social media for the latest offers, promos, job vacancies, and much more:\n► Subscribe: http://bit.ly/wscubechannel\n► Facebook: https://www.facebook.com/wsubetech.india \n► Twitter: https://twitter.com/wscubetechindia\n► Instagram: https://www.instagram.com/wscubetechindia/ \n► LinkedIn : https://www.linkedin.com/company/wscubetechindia/ \n► Youtube: https://www.youtube.com/c/wscubetechjodhpur \n► Website: http://wscubetech.com \n--------------------------------------| Thanks |---------------------------\n#ethicalhacking  #cybersecurity  #ethicalhackingcourse",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p82tGFXRuIg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p82tGFXRuIg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p82tGFXRuIg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/p82tGFXRuIg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/p82tGFXRuIg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WsCube Tech",
+        "playlistId": "UU0T6MVd3wQDB5ICAe45OxaQ",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "p82tGFXRuIg"
+        },
+        "videoOwnerChannelTitle": "WsCube Tech",
+        "videoOwnerChannelId": "UC0T6MVd3wQDB5ICAe45OxaQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-N2H3SjR2HiDYOxwc32-bsE7XMw",
+      "id": "VVUwVDZNVmQzd1FEQjVJQ0FlNDVPeGFRLlJmR25uZTlra1RJ",
+      "snippet": {
+        "publishedAt": "2023-02-14T05:34:10Z",
+        "channelId": "UC0T6MVd3wQDB5ICAe45OxaQ",
+        "title": "Next.js Tutorial 2023: Nesting of Dynamic Routes in NextJs - Hindi",
+        "description": "In this video, learn Next.js Tutorial 2023: Nesting of Dynamic Routes in NextJs - Hindi. Find all the videos of the Next.js Complete Course in this playlist: https://www.youtube.com/watch?v=t-KfG_4snIE&list=PLjVLYmrlmjGcg_ZTmYgMkYp0snH-g4Zf6\n\n💎 Get Access to Premium Videos and Live Streams: https://www.youtube.com/channel/UC0T6MVd3wQDB5ICAe45OxaQ/join\n\nWsCube Tech is a leading Web, Mobile App &  Digital Marketing company, and institute in India.\n\nWe help businesses of all sizes to build their online presence, grow their business, and reach new heights. \n\n👉For Digital Marketing services (Brand Building, SEO, SMO, PPC, SEM, Content Writing), Web Development and App Development solutions, visit our website: https://www.wscubetech.com/\n\n👉Want to learn new skills and improve existing ones with in-depth and practical sessions? Enroll in our advanced online courses now and make yourself job-ready: https://courses.wscubetech.com/s/store\n\nAll the courses are job-oriented, up-to-date with the latest algorithms and modules, fully practical, and provide you hands-on projects. \n\n👉 Want to learn and acquire skills in English? Visit WsCube Tech English channel: https://bit.ly/2M3oYOs\n\n📞 For more info about the courses, call us: +91-7878985501, +91-9269698122\n\n✅ CONNECT WITH THE FOUNDER (Mr. Kushagra Bhatia) - \n\n👉 Instagram - https://www.instagram.com/kushagrabhatiaofficial\n👉 LinkedIn - https://www.linkedin.com/in/kushagra-bhatia\n👉 Facebook - https://www.facebook.com/kushagrawscubetech\n\nConnect with WsCube Tech on social media for the latest offers, promos, job vacancies, and much more:\n\n► Subscribe: http://bit.ly/wscubechannel\n► Facebook: https://www.facebook.com/wscubetech.india\n► Twitter: https://twitter.com/wscubetechindia\n► Instagram: https://www.instagram.com/wscubetechindia/\n► LinkedIn : https://www.linkedin.com/company/wscubetechindia/ \n► Youtube: https://www.youtube.com/c/wscubetechjodhpur \n► Website: http://wscubetech.com \n--------------------------------------| Thanks |---------------------------\n#nextjs  #dynamic  #nextjstutorial",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RfGnne9kkTI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RfGnne9kkTI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RfGnne9kkTI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RfGnne9kkTI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RfGnne9kkTI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WsCube Tech",
+        "playlistId": "UU0T6MVd3wQDB5ICAe45OxaQ",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RfGnne9kkTI"
+        },
+        "videoOwnerChannelTitle": "WsCube Tech",
+        "videoOwnerChannelId": "UC0T6MVd3wQDB5ICAe45OxaQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3f9qpdk6gfuxwX5ga5XpbnTPgeo",
+      "id": "VVUwVDZNVmQzd1FEQjVJQ0FlNDVPeGFRLm9XYzg5MDN2cC1V",
+      "snippet": {
+        "publishedAt": "2023-02-13T15:30:12Z",
+        "channelId": "UC0T6MVd3wQDB5ICAe45OxaQ",
+        "title": "Ad Campaigns vs Ad Sets vs Ad - What's the Difference? | Facebook Ads Tutorial 2023",
+        "description": "In this video, learn Ad Campaigns vs Ad Sets vs Ad - What's the Difference? | Facebook Ads Tutorial 2023. Find all the videos of the Facebook Ads Complete Course 2023 in this playlist: https://www.youtube.com/watch?v=f1BSID0GfH4&list=PLjVLYmrlmjGcf0wbTgMsTGS9DhCE_Ehjw\n\n💎 Get Access to Premium Videos and Live Streams: https://www.youtube.com/channel/UC0T6MVd3wQDB5ICAe45OxaQ/join\n\nWsCube Tech is a leading Web, Mobile App &  Digital Marketing company, and institute in India.\n\nWe help businesses of all sizes to build their online presence, grow their business, and reach new heights. \n\n👉For Digital Marketing services (Brand Building, SEO, SMO, PPC, SEM, Content Writing), Web Development and App Development solutions, visit our website: https://www.wscubetech.com/\n\n👉Want to learn new skills and improve existing ones with in-depth and practical sessions? Enroll in our advanced online courses now and make yourself job-ready: https://courses.wscubetech.com/s/store\n\nAll the courses are job-oriented, up-to-date with the latest algorithms and modules, fully practical, and provide you hands-on projects. \n\n✅ CONNECT WITH THE FOUNDER (Mr. Kushagra Bhatia) - \n\n👉 Instagram - https://www.instagram.com/kushagrabhatiaofficial\n👉 LinkedIn - https://www.linkedin.com/in/kushagra-bhatia\n👉 Facebook - https://www.facebook.com/kushagrawscubetech\n\n👉 Want to learn and acquire skills in English? Visit WsCube Tech English channel: https://bit.ly/2M3oYOs\n\n📞 For more info about the courses, call us: +91-7878985501, +91-9269698122\n\nConnect with WsCube Tech on social media for the latest offers, promos, job vacancies, and much more:\n\n► Subscribe: http://bit.ly/wscubechannel\n► Facebook: https://www.facebook.com/wscubetech.india\n► Twitter: https://twitter.com/wscubetechindia\n► Instagram: https://www.instagram.com/wscubetechindia/\n► LinkedIn : https://www.linkedin.com/company/wscubetechindia/ \n► Youtube: https://www.youtube.com/c/wscubetechjodhpur \n► Website: http://wscubetech.com \n--------------------------------------| Thanks |---------------------------\n#facebookads  #campaign  #ads",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oWc8903vp-U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oWc8903vp-U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oWc8903vp-U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oWc8903vp-U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oWc8903vp-U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WsCube Tech",
+        "playlistId": "UU0T6MVd3wQDB5ICAe45OxaQ",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oWc8903vp-U"
+        },
+        "videoOwnerChannelTitle": "WsCube Tech",
+        "videoOwnerChannelId": "UC0T6MVd3wQDB5ICAe45OxaQ"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 4848,
+    "resultsPerPage": 5
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

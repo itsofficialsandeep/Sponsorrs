@@ -1,0 +1,50 @@
+[15-Apr-2023 08:58:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'country' doesn't have a default value in /home/sponsorr/public_html/misc/adduser2.php:120
+Stack trace:
+#0 /home/sponsorr/public_html/misc/adduser2.php(120): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/sponsorr/public_html/misc/adduser2.php on line 120
+[15-Apr-2023 09:13:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'country' doesn't have a default value in /home/sponsorr/public_html/misc/adduser2.php:120
+Stack trace:
+#0 /home/sponsorr/public_html/misc/adduser2.php(120): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/sponsorr/public_html/misc/adduser2.php on line 120
+[15-Apr-2023 09:21:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'country' doesn't have a default value in /home/sponsorr/public_html/misc/adduser2.php:126
+Stack trace:
+#0 /home/sponsorr/public_html/misc/adduser2.php(126): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/sponsorr/public_html/misc/adduser2.php on line 126
+[15-Apr-2023 09:25:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'full_name' doesn't have a default value in /home/sponsorr/public_html/misc/adduser2.php:126
+Stack trace:
+#0 /home/sponsorr/public_html/misc/adduser2.php(126): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/sponsorr/public_html/misc/adduser2.php on line 126
+[15-Apr-2023 09:27:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'intro_video' doesn't have a default value in /home/sponsorr/public_html/misc/adduser2.php:126
+Stack trace:
+#0 /home/sponsorr/public_html/misc/adduser2.php(126): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/sponsorr/public_html/misc/adduser2.php on line 126
+[15-Apr-2023 09:28:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'benefit' doesn't have a default value in /home/sponsorr/public_html/misc/adduser2.php:126
+Stack trace:
+#0 /home/sponsorr/public_html/misc/adduser2.php(126): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/sponsorr/public_html/misc/adduser2.php on line 126
+[15-Apr-2023 09:29:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'sr_from_pre_table' doesn't have a default value in /home/sponsorr/public_html/misc/adduser2.php:126
+Stack trace:
+#0 /home/sponsorr/public_html/misc/adduser2.php(126): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/sponsorr/public_html/misc/adduser2.php on line 126
+[15-Apr-2023 09:31:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'business-news-p-6078@pages.plusgoogle.com' for key 'email' in /home/sponsorr/public_html/misc/adduser2.php:126
+Stack trace:
+#0 /home/sponsorr/public_html/misc/adduser2.php(126): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/sponsorr/public_html/misc/adduser2.php on line 126
+[15-Apr-2023 09:32:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'full_json' doesn't have a default value in /home/sponsorr/public_html/misc/adduser2.php:126
+Stack trace:
+#0 /home/sponsorr/public_html/misc/adduser2.php(126): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/sponsorr/public_html/misc/adduser2.php on line 126
+[15-Apr-2023 09:35:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'full_json' doesn't have a default value in /home/sponsorr/public_html/misc/adduser2.php:126
+Stack trace:
+#0 /home/sponsorr/public_html/misc/adduser2.php(126): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/sponsorr/public_html/misc/adduser2.php on line 126
